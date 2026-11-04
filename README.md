@@ -2,4 +2,4 @@
 
 Проектная работа Яндекс Практикума: вёрстка лендинга аукциона «Оно тебе надо» на HTML и CSS.
 
-Ссылка на репозиторий: https://github.com/USERNAME/ono-tebe-nado
+Ссылка на репозиторий: https://github.com/IgloBruh/ono-tebe-nado-ad
